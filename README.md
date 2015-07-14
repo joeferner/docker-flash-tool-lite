@@ -1,0 +1,4 @@
+- Run `./build.sh`
+- Download a firmware from https://software.intel.com/en-us/iot/hardware/edison/downloads
+- Run `./run.sh`
+- In the docker container run `phoneflashtoollite`
